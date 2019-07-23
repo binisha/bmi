@@ -1,2 +1,2 @@
-bmi test2
+bmi test3
 ===
